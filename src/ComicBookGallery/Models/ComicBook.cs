@@ -9,7 +9,7 @@
         public Artist[] Artists { get; set; }
         public bool Favorite { get; set; }
 
-        public string Displaytext
+        public string DisplayText
         {
             get
             {
